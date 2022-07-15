@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "62d1905456d59ba0607cdd83"
+  },
+  "category_name": "starters",
+  "status": true,
+  "admin": "shweta@gmail.com"
+},{
+  "_id": {
+    "$oid": "62d1906e56d59ba0607cdd84"
+  },
+  "category_name": "main-course",
+  "status": true,
+  "admin": "shweta@gmail.com"
+}]

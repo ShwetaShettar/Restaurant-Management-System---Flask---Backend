@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "62d16f38959efae057feec0d"
+  },
+  "full_name": "shweta",
+  "email": "shweta@gmail.com",
+  "password": "sha256$xM1SrHO8ZlmcfBKV$ec3b3379378f193cbaf1ab32f3e0ab4894cc7d2c511d757bbc60a6b37e879529",
+  "registration_date": {
+    "$date": "2022-07-15T19:14:24.663Z"
+  },
+  "phone_number": "91-9876543210",
+  "restaurantname": "mycafe"
+},{
+  "_id": {
+    "$oid": "62d16f7854d7c6753e961c2a"
+  },
+  "full_name": "shweta",
+  "email": "shweta@gmail.com",
+  "password": "sha256$PkzbVtuMwJudNuHu$cde197ab9bffaeae6282f632e1ab9f6686eb4eee9e2e208cab7f07d0c0cea90f",
+  "registration_date": {
+    "$date": "2022-07-15T19:15:28.345Z"
+  },
+  "phone_number": "91-9876543210",
+  "restaurantname": "mycafe"
+}]

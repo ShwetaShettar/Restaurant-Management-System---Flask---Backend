@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "62d1991d88311a717a0b99cf"
+  },
+  "order_no": 1,
+  "table_name": "table2",
+  "ordered_list": [
+    {
+      "item_name": "Paneer Tikka",
+      "quantity": 2
+    },
+    {
+      "item_name": "roti",
+      "quantity": 4
+    }
+  ],
+  "customer_name": null,
+  "customer_phone": null,
+  "waiter_name": "waiter1",
+  "admin": "shweta@gmail.com",
+  "date": {
+    "$date": "2022-07-15T22:13:09.386Z"
+  },
+  "occupied": true,
+  "status": "pending"
+},{
+  "_id": {
+    "$oid": "62d1996c88311a717a0b99d0"
+  },
+  "order_no": 2,
+  "table_name": "table3",
+  "ordered_list": [
+    {
+      "item_name": "Paneer Tikka",
+      "quantity": 1
+    },
+    {
+      "item_name": "biryani",
+      "quantity": 1
+    }
+  ],
+  "customer_name": null,
+  "customer_phone": null,
+  "waiter_name": "waiter2",
+  "admin": "shweta@gmail.com",
+  "date": {
+    "$date": "2022-07-15T22:14:28.318Z"
+  },
+  "occupied": true,
+  "status": "completed"
+},{
+  "_id": {
+    "$oid": "62d199a788311a717a0b99d1"
+  },
+  "order_no": 3,
+  "table_name": "table2",
+  "ordered_list": [
+    {
+      "item_name": "Paneer Tikka",
+      "quantity": 1
+    },
+    {
+      "item_name": "biryani",
+      "quantity": 1
+    },
+    {
+      "item_name": "roti",
+      "quantity": 3
+    }
+  ],
+  "customer_name": null,
+  "customer_phone": null,
+  "waiter_name": "waiter2",
+  "admin": "shweta@gmail.com",
+  "date": {
+    "$date": "2022-07-15T22:15:27.372Z"
+  },
+  "occupied": true,
+  "status": "completed"
+},{
+  "_id": {
+    "$oid": "62d199ba88311a717a0b99d2"
+  },
+  "order_no": 4,
+  "table_name": "table2",
+  "ordered_list": [
+    {
+      "item_name": "Paneer Tikka"
+    }
+  ],
+  "customer_name": "customer1",
+  "customer_phone": null,
+  "waiter_name": "waiter2",
+  "admin": "shweta@gmail.com",
+  "date": {
+    "$date": "2022-07-15T22:15:46.910Z"
+  },
+  "occupied": true,
+  "status": "pending"
+}]

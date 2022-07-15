@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "62d19225978ce95b1ae243ca"
+  },
+  "item_name": "Paneer Tikka",
+  "item_price": 100,
+  "category_name": "starters",
+  "admin": "shweta@gmail.com",
+  "status": true
+},{
+  "_id": {
+    "$oid": "62d192ccd2d17f0d761aee1b"
+  },
+  "item_name": "chicken Tikka",
+  "item_price": 200,
+  "category_name": "starters",
+  "admin": "shweta@gmail.com",
+  "status": true
+},{
+  "_id": {
+    "$oid": "62d192e5d2d17f0d761aee1c"
+  },
+  "item_name": "chicken 65",
+  "item_price": 250,
+  "category_name": "starters",
+  "admin": "shweta@gmail.com",
+  "status": true
+},{
+  "_id": {
+    "$oid": "62d193a5deadbe515271c9aa"
+  },
+  "item_name": "roti",
+  "item_price": 30,
+  "category_name": "main-course",
+  "admin": "shweta@gmail.com",
+  "status": true
+},{
+  "_id": {
+    "$oid": "62d193b5deadbe515271c9ab"
+  },
+  "item_name": "khulcha",
+  "item_price": 40,
+  "category_name": "main-course",
+  "admin": "shweta@gmail.com",
+  "status": true
+},{
+  "_id": {
+    "$oid": "62d193c3deadbe515271c9ac"
+  },
+  "item_name": "biryani",
+  "item_price": 80,
+  "category_name": "main-course",
+  "admin": "shweta@gmail.com",
+  "status": true
+},{
+  "_id": {
+    "$oid": "62d193ccdeadbe515271c9ad"
+  },
+  "item_name": "plain rice",
+  "item_price": 50,
+  "category_name": "main-course",
+  "admin": "shweta@gmail.com",
+  "status": true
+}]

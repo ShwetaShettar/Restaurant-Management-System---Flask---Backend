@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "62d194ad59bd4d5606b3e006"
+  },
+  "table_name": "groundfloor_table1",
+  "admin": "shweta@gmail.com",
+  "capacity": 2,
+  "occupied": false,
+  "status": true
+},{
+  "_id": {
+    "$oid": "62d194d359bd4d5606b3e007"
+  },
+  "table_name": "table2",
+  "admin": "shweta@gmail.com",
+  "capacity": 4,
+  "occupied": false,
+  "status": true
+},{
+  "_id": {
+    "$oid": "62d194df59bd4d5606b3e008"
+  },
+  "table_name": "table3",
+  "admin": "shweta@gmail.com",
+  "capacity": 8,
+  "occupied": false,
+  "status": true
+}]

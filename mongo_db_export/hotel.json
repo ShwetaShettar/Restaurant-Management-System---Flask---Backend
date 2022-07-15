@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "62d176c7188a53df0061f87f"
+  },
+  "hotel_name": "mycafe",
+  "location": "delhi",
+  "email": "email",
+  "creation_date": {
+    "$date": "2022-07-15T19:46:39.342Z"
+  },
+  "phone_number": "91-9876541230",
+  "admin": "shweta@gmail.com"
+}]
